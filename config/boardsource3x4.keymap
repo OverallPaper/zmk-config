@@ -1,4 +1,7 @@
 #include <physical_layouts.dtsi>
+export ZEPHYR_BASE=/path/to/zephyr
+export ZMK_CONFIG=/path/to/zmk-config
+export ZMK_EXTRA_MODULES=/path/to/extra-modules
 
 / {
     physical_layout0: physical_layout_0 {
