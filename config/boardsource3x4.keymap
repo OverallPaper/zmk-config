@@ -18,7 +18,7 @@
             , <&key_physical_attrs 100 100    0  200       0     0     0>
             , <&key_physical_attrs 100 100  100  200       0     0     0>
             , <&key_physical_attrs 100 100  200  200       0     0     0>
-            ;
+            
     };
 
     physical_layout1: physical_layout_1 {
@@ -65,6 +65,6 @@
             , <&key_physical_attrs 100 150  952  262 (-3000)  1002   790>
             , <&key_physical_attrs 100 100  952  312 (-1500)  1002   790>
             , <&key_physical_attrs 100 100  952  312       0     0     0>
-            ;
+            
     };
 };
