@@ -1,0 +1,7 @@
+# Kconfig.defconfig
+if SHIELD_TASTIERA3X3
+
+config ZMK_KEYBOARD_NAME
+    default "Tastiera 3x3"
+
+endif
