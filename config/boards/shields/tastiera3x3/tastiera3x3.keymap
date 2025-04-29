@@ -8,9 +8,9 @@
 
         default_layer {
             bindings = <
-                &kp Q      &kp W      &kp E
-                &kp A      &kp S      &kp D
-                &kp Z      &kp X      &kp C
+                &kp P      &kp C      &kp I
+                &kp O      &kp O      &kp O
+                &kp R      &kp D      &kp O
             >;
         };
     };
